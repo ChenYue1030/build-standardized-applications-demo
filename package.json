@@ -1,0 +1,24 @@
+{
+  "name": "build-standardized-applications-demo",
+  "version": "1.0.0",
+  "description": "build-standardized-applications-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenYue1030/build-standardized-applications-demo.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "typescript"
+  ],
+  "author": "Chen Yue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenYue1030/build-standardized-applications-demo/issues"
+  },
+  "homepage": "https://github.com/ChenYue1030/build-standardized-applications-demo#readme"
+}
